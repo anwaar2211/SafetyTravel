@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564556349802",
+    "project_id": "safety-travel",
+    "storage_bucket": "safety-travel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564556349802:android:6a2621562c2ca063486513",
+        "android_client_info": {
+          "package_name": "com.example.safetytravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564556349802-9ni3tu2b5bj4htlb7co224ur2av2g81j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxywzIaqO08OLU0ZRMHM24gOVb6MEFaVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564556349802-9ni3tu2b5bj4htlb7co224ur2av2g81j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
